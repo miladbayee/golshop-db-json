@@ -1,9 +1,33 @@
 {
     "product":[
         {
-            "id":1,
-            "price":12000,
-            "productUrl":""
+            "id":2400,
+            "name":"گلرنگ مایع دستشویی صدفی صورتی ",
+            "distributerId":1,
+            "distributer":"گلپخش",
+            "distributerImg":"/assets/images/companies/gpa.svg",
+            "productId":2400,
+            "productImage":"/assets/images/product/2400.png",
+            "originCategoryId":"3",
+            "originCategory":"بهداشتی",
+            "subCategoryId":"305",
+            "subCategory":"شوینده",
+            "categoryId":"305002",
+            "category":"مایع دستشویی",
+            "unitName":"بطری",
+            "bundlrUnitName":"کارتن",
+            "quantityPerUnit":4,
+            "barCode":6260010507683,
+            "brandId":1,
+            "brandName":"گلرنگ",
+            "brandImg":"/assets/images/brands/golrang.png",
+            "price":1092062,
+            "consumerPrice":1368900,
+            "minOrder":1,
+            "maxOrder":8,
+            "discount":null,
+            "tieredDiscount":null,
+            "tax":null
         }
     ]
 }
