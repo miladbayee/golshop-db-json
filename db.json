@@ -27,7 +27,7 @@
             "maxOrder":8,
             "discount":null,
             "tieredDiscount":null,
-            "tax":9,
+            "vat":9,
             "score":4.5
         },
         {
@@ -57,7 +57,7 @@
             "maxOrder":8,
             "discount":6,
             "tieredDiscount":null,
-            "tax":12,
+            "vat":12,
             "score":4.3
         },
         {
@@ -87,7 +87,7 @@
             "maxOrder":8,
             "discount":8,
             "tieredDiscount":null,
-            "tax":null,
+            "vat":null,
             "score":null
         },
         {
@@ -143,7 +143,7 @@
                     "discount":10
                 }
             ],
-            "tax":9,
+            "vat":9,
             "score":4.7
         },
         {
@@ -199,7 +199,7 @@
                     "discount":10
                 }
             ],
-            "tax":9,
+            "vat":9,
             "score":null
         }
     ]
