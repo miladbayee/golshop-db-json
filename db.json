@@ -93,5 +93,15 @@
             "vat":null,
             "score":0
         }
+    ],
+    "brands":[
+        {
+            "id":1,
+            "brandName":"گلرنگ"
+        },
+        {
+            "id":2,
+            "brandName":"اوه"
+        }
     ]
 }
